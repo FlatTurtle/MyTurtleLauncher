@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyTurtleLauncher</string>
+    <string name="flatturtle">FlatTurtle</string>
+
+    <string name="relaunch">Launch again!</string>
+    <string name="help">This application launches the FlatTurtle tablet, when you keep seeing this screen something went wrong and you should contact us :).</string>
+
+    <string name="alert_title">Oh no, this sucks :(</string>
+    <string name="alert_message">We couldn\'t find MyTurtleController on the device, contact us!</string>
+</resources>
